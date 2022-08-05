@@ -9,3 +9,5 @@ print(dir(data))
 print(data2.count("c"))
 print(data2.index("c"))
 print(data2[3])
+data2=1,2,3,4,5,6
+print(type(data2))
